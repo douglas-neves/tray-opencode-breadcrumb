@@ -7,7 +7,7 @@ da plataforma OpenCode este breadcrumb exibe a pagina em que o usuario se encont
 ## Instalação
 
 1. Crie um arquivo com o nome **_breadcrumb.html_** dentro da pasta **_elements/snippets_**. 
-2. Copie o codigo [deste snippet](#) e cole Dentro do arquivo recem criado. 
+2. Copie o codigo [deste snippet](#) e cole no arquivo recem criado. 
 3. inclua a chamada abaixo no inicio do arquivo **_pages/catalog.html_**
 
 ```{% element('snippets/paginate') %})```
